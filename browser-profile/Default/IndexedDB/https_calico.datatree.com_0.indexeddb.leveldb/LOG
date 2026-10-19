@@ -1,0 +1,21 @@
+2026/10/19-14:13:33.555 f704 Reusing MANIFEST /home/dasunnirmal/VsCodeProjects/calico-agent-v1-chat/browser-profile/Default/IndexedDB/https_calico.datatree.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/19-14:13:33.555 f704 Recovering log #125
+2026/10/19-14:13:33.599 f704 Reusing old log /home/dasunnirmal/VsCodeProjects/calico-agent-v1-chat/browser-profile/Default/IndexedDB/https_calico.datatree.com_0.indexeddb.leveldb/000125.log 
+2026/10/19-14:13:35.792 f704 Compacting 1@1 + 7@2 files
+2026/10/19-14:13:35.868 f704 Generated table #130@1: 116736 keys, 2281473 bytes
+2026/10/19-14:13:35.901 f704 Generated table #131@1: 42278 keys, 2205146 bytes
+2026/10/19-14:13:35.930 f704 Generated table #132@1: 26833 keys, 2195578 bytes
+2026/10/19-14:13:35.958 f704 Generated table #133@1: 42291 keys, 2209522 bytes
+2026/10/19-14:13:36.011 f704 Generated table #134@1: 143999 keys, 2314401 bytes
+2026/10/19-14:13:36.055 f704 Generated table #135@1: 92330 keys, 2276641 bytes
+2026/10/19-14:13:36.066 f704 Generated table #136@1: 16838 keys, 444169 bytes
+2026/10/19-14:13:36.066 f704 Compacted 1@1 + 7@2 files => 13926930 bytes
+2026/10/19-14:13:36.068 f704 compacted to: files[ 0 1 8 0 0 0 0 ]
+2026/10/19-14:13:36.068 f704 Delete type=2 #88
+2026/10/19-14:13:36.068 f704 Delete type=2 #114
+2026/10/19-14:13:36.068 f704 Delete type=2 #87
+2026/10/19-14:13:36.069 f704 Delete type=2 #124
+2026/10/19-14:13:36.069 f704 Delete type=2 #118
+2026/10/19-14:13:36.069 f704 Delete type=2 #117
+2026/10/19-14:13:36.069 f704 Delete type=2 #128
+2026/10/19-14:13:36.069 f704 Delete type=2 #121
