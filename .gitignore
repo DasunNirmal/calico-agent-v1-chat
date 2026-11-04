@@ -11,4 +11,4 @@ __pycache__/
 .env
 .env.*
 !.env.example
-browser-profile/ browser-profile/
+browser-profile/
